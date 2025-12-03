@@ -1,0 +1,1 @@
+Proyek ini menggunakan secondary data yang diperoleh dari GitHub sebagai sumber utama untuk perancangan arsitektur database. Data tersebut kemudian melalui proses ETL dan diolah lebih lanjut hingga menghasilkan visualisasi berupa dashboard pada Power BI.
